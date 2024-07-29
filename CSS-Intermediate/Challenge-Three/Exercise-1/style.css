@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    margin: 0 20px;
+    text-align: center;
+}
+div, footer {
+    display: inline-block;
+    height: 100px;
+}
+.container {
+    margin: 20px 0px;
+    width: 100%;
+}
+.red, .blue, footer {
+    border: 2px solid black;
+}
+.red {
+    width: 25%;
+    background: maroon;
+    margin-right: 3%
+}
+.blue {
+    width: 65%;
+    background: lightblue;
+}
+footer {
+    width: 94.5%;
+    background: yellow;
+}

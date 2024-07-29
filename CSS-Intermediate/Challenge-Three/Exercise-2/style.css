@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-left: 10px;
+}
+
+div {
+    border: 2px solid black;
+}
+
+.col {
+    height: 400px;
+    width: 32%;
+    margin-left: 1%;
+    display: inline-block;
+}
+
+.purple {
+    background: purple;
+    width: 98.5%;
+    height: 200px;
+    margin: 10px;
+}
+
+.red {
+    background-color: maroon;
+    margin-left: 10px;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.orange {
+    background-color: orange;
+    margin-right: 10px;
+}
